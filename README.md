@@ -1,6 +1,4 @@
   
-# Piotr Bogusławski Home Page
-
 ## [Safe Notebooks for iOS, macOS, Android, Windows (UWP)](https://github.com/boguslawski-piotr/SafeNotebooks)
 
 #### A simple application to store all kinds of notes, which can be organized in notebooks and pages.
