@@ -1,2 +1,2 @@
-Sources for [Piotr Boguslawski's blog about programming](boguslawski-piotr.github.io)
+Sources for Piotr Boguslawski's blog about programming at https://boguslawski-piotr.github.io
 
